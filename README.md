@@ -16,3 +16,7 @@ In my interpretation it works like this:
 8. Replasing numbers in array with 1 for prime numbers and 0 if not;
 9. Generating picture using data from array.
 10. Done!
+
+
+
+P.S. It's an old one code and I believed that replacing every math calculation with numpy analog will improve performance and picture generation (actually, it's not). But I still wanted to loadout this "masterpiece" :)
